@@ -37,10 +37,9 @@ The database contains:
 We welcome the use of the RoSIP scale and database for research purposes. If you use them in your work, please cite our paper:
 
 ```
-Xucong Hu, Qinyi Hu, Tianya Yu, Mowei Shen, and Jifan Zhou. 2026. RoSIP:
-A Scale for Measuring Appearance-Based Social Interaction Potential in
-Robots. In Proceedings of the 2026 ACM/IEEE International Conference on
-Human-Robot Interaction (HRI '26 Companion). ACM, New York, NY, USA.
+Hu, X., Hu, Q., Yu, T., Shen, M., & Zhou, J. (2026, March). RoSIP: A Scale for
+Measuring Appearance-Based Social Interaction Potential in Robots. In Companion
+of the 2026 ACM/IEEE International Conference on Human-Robot Interaction.
 ```
 
 *Formal citation with DOI will be updated upon publication.*
