@@ -34,9 +34,8 @@ The database contains:
 
 ## Citation
 
-**If you use the RoSIP scale or data from this database, please cite our paper:**
+We welcome the use of the RoSIP scale and database for research purposes. If you use them in your work, please cite our paper:
 
-Temporary citation:
 ```
 Xucong Hu, Qinyi Hu, Tianya Yu, Mowei Shen, and Jifan Zhou. 2026. RoSIP:
 A Scale for Measuring Appearance-Based Social Interaction Potential in
