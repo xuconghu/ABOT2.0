@@ -1,6 +1,8 @@
 # ABOT 2.0 - Robot Social Interaction Potential Database
 
-A database of 357+ robot images with validated social interaction potential scores based on the RoSIP scale.
+A database of 300 robot images with validated social interaction potential scores based on the RoSIP scale.
+
+![Teaser](teaser.jpg)
 
 ## Website
 
@@ -26,7 +28,7 @@ The scale consists of **10 items** measuring two dimensions:
 ## Database
 
 The database contains:
-- 357+ robot images with standardized appearance annotations
+- 300 robot images with standardized appearance annotations
 - RoSIP scores (Perceptual Potential, Behavioral Potential, Total)
 - Percentile rankings for all metrics
 
