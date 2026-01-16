@@ -34,6 +34,8 @@ The database contains:
 
 ## Citation
 
+**If you use the RoSIP scale or data from this database, please cite our paper:**
+
 Temporary citation:
 ```
 Xucong Hu, Qinyi Hu, Tianya Yu, Mowei Shen, and Jifan Zhou. 2026. RoSIP:
