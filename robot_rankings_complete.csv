@@ -1,0 +1,300 @@
+机器人名称,感知_均值,行为_均值,综合_均值,developer,website
+Miroka?,79.27,78.1,157.37,Enchanted Tools,https://enchanted.tools
+aibo,77.57,74.25,151.82,SONY,https://aibo.sony.jp
+XGO-Rider,72.5,75.1,147.6,Luwu Dynamics (陆吾科技),https://wiki.elecfreaks.com/microbit/robot/cm4-xgo-rider-kit/products-description/
+G1,74.1,70.2,144.3,Unitree,https://www.unitree.com/cn/g1
+Tang Monk,73.37,69.75,143.12,Ahead Form (首形科技),https://www.aheadform.com/zh
+Qmini,69.57,69.25,138.82,Unitree,https://github.com/unitreerobotics/Qmini
+BDX  Droid,74.13,62.3,136.43,Walt Disney Imagineering,https://thewaltdisneycompany.com/behind-the-bdx-droids/
+ToddlerBot,70.07,66.1,136.17,Stanford University,https://toddlerbot.github.io
+X1,73.6,61.51,135.11,AgiBot Series,http://www.agibot.com/qzproduct/169.html
+N1,65,69.45,134.45,Fourier,https://fourier-grx-n1.github.io
+Vector,74.3,59.9,134.2,Anki,https://anki.bot/pages/meet-vector
+Lovot 3,68.2,66,134.2,GROOVE X,https://lovot.life/en/
+AIBI,70.53,62.9,133.43,Living ai,https://living.ai/aibi/
+Ameca,68.57,64.6,133.17,Engineered Arts,https://engineeredarts.com/robot/ameca/
+Booster T1,64.07,68.55,132.62,Booster Robotics,https://www.boosterobotics.com/zh/robots/
+GR-1,66.87,65.3,132.17,Fourier,https://www.fftai.cn/products-gr1
+Surena IV,64,64.4,128.4,University of Tehran,https://surenahumanoid.com/surenaIV.html
+EVE,61.77,62.05,123.82,1X,https://www.1x.tech
+Yonbo,65.93,57.7,123.63,X-ORIGIN-AI,https://www.xorigin.ai
+Spot,61.67,61.25,122.92,Boston Dynamics,https://bostondynamics.com/products/spot/
+NEO Gamma,60.67,62.2,122.87,1X Technologies,https://www.1x.tech/neo
+Ropet,63.77,58.95,122.72,ropet ai,https://comingsoon.ropet.bot
+Digit-2,63.03,57.4,120.43,Agility Robotics,https://www.agilityrobotics.com/
+s2,62.23,57.65,119.88,Engineai,https://www.engineai.com.cn/product_two
+Bambot,67.53,51.35,118.88,Tim Qian,https://github.com/timqian/bambot?tab=readme-ov-file
+AYUDA-MiraMe,63.6,55.05,118.65,"CIJ Co., Ltd.",https://ayuda.cij.co.jp/service/product/ayuda/index.html#mirame
+Ascento,62.13,56.5,118.63,ascento,https://www.ascento.ai
+bocco emo,59.27,59.2,118.47,Yukai Engineering,https://www.bocco.me
+Berkeley Humanoid Lite,58.17,58.9,117.07,UC Berkeley,https://arxiv.org/abs/2504.17249
+NICOL,60.93,55.55,116.48,German Research,https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/neurobotics/nicol.html
+Go2,58.53,57.8,116.33,Unitree,https://www.unitree.com/cn/go2
+H1,59.53,56.65,116.18,Unitree,https://www.unitree.com/cn/h1
+Protoclon,55.17,57.3,112.47,clone,https://clonerobotics.com
+Emo,55.87,56.15,112.02,Living ai,https://living.ai/emo/
+SE01,56.83,52.65,109.48,Engineai,https://www.engineai.com.cn/product_one
+DJI Neo,57.7,46.65,104.35,DJI,https://www.dji.com/cn/neo
+Creature-02,49.83,53.2,103.03,Columbia Engineering,https://www.notion.so/chongliu/Creature_02-Open-Source-Gait-Training-Bipedal-Robot-630656df48874a3da114ae1d182898ed
+Optimus,54.17,48.5,102.67,Tesla,https://www.tesla.com/AI
+SA01,54.33,48.2,102.53,Engineai,https://www.engineai.com.cn/product_three
+mini talking-bones,54.17,47.75,101.92,ICD Lab,https://www.icd.cs.tut.ac.jp/index.php/portfolio/mini-talking-bones/
+Nicobo,53.13,46.75,99.88,panasonic,https://panasonic.net/design/projects/nicobo/
+Tidybot++,49.43,46.15,95.58,Stanford University,https://tidybot2.github.io
+Mi-mo,47.53,43.85,91.38,Jizai,https://jizai.ai/Mi-Mo
+Emo the robotic head,49.5,41,90.5,Columbia Engineering,https://www.engineering.columbia.edu/about/news/robot-can-you-say-cheese?
+XGO-tiny,44.83,38,82.83,Luwu Dynamics,https://www.yuque.com/luwudynamics/cn/aq2arm2vmqikdac9
+RT-G,45.5,35.2,80.7,Rotunbot,http://www.rotunbot.cn/
+Ballie,40.87,37.6,78.47,Samsung,https://www.samsung.com/global/home-robot-ballie/
+Aru,39.53,34.55,74.08,Nio Robotics,https://www.nio-robotics.com
+Chipo,37.2,35.1,72.3,MakeYourPet,https://github.com/MakeYourPet/hexapod/blob/main/Illustrations/yellow2.png
+aimec,84.33,82.8,167.13,Tony Ellis (Applied Machine Intelligence (AMI)),http://www.appliedmachineintelligence.co.uk/robots.html
+zeno,83.37,81.7,165.07,Hanson Robotics,http://www.hansonrobotics.com/robot/zeno/
+Yumi-TrueSmart,82.6,78.6,161.2,ABB,https://new.abb.com/future/yumi
+Roboware-E3,82.63,78.35,160.98,Roboware,https://www.engadget.com/2008/12/18/roboware-e3-family-robot-spotted-in-action-packed-video/
+lynx,79.7,78.95,158.65,Ubtech Robotics,https://ubtrobot.com/
+Echo-Plus,80.46,77.1,157.56,Hovis DST robot (Sastra),http://www.sastrarobotics.com/products/hovis-eco/
+albert-hubo,81.8,74.55,156.35,Hanson Robotics / Dynamic Korea,http://www.hansonrobotics.com/robot/albert-einstein-hubo/
+Bandit,79.03,77.25,156.28,Interaction Lab USC and Blue Sky Robotics,http://robotics.usc.edu/interaction/robots/
+robonaut,81.54,74.5,156.04,NASA & GM,https://robonaut.jsc.nasa.gov/R2/
+romeo,80.17,75.6,155.77,Aldebaran,https://www.ald.softbankrobotics.com/en/cool-robots/romeo
+Ira,79.1,75.05,154.15,HDFC bank,https://www.youtube.com/watch?v=5vjY1c8N1rk
+ARMAR-3,77.27,75.45,152.72,Karlsruhe Institute of Technology,https://his.anthropomatik.kit.edu/english/241.php
+cb2-humanoid,77.57,74.4,151.97,Osaka University,http://www.eng.osaka-u.ac.jp/ja/research/index_asada.html
+Aero-Drc,76.07,75.65,151.72,Team Aero in DRC 2015,http://archive.darpa.mil/roboticschallenge/finalist/aero.html
+Geminoid-H1-4,77.27,73.9,151.17,Hiroshi Ishiguro Laboratory (HIL),http://www.geminoid.jp/projects/kibans/resources.html
+Milo,76.33,74.8,151.13,RoboKind Hanson Robotics,https://robots4autism.com/
+HRP-4,77.03,73.5,150.53,"Humanoid Research Group, National Institute of Advanced Industrial Scinece and Technology, Kawada Industries",http://global.kawada.jp/mechatronics/hrp4.html
+Kodomoroid,76.1,73.75,149.85,Hiroshi Ishiguro Laboratory (HIL),http://www.geminoid.jp/en/robots.html
+Sophia,73.96,75,148.96,Hanson Robotics,http://sophiabot.com/
+aldebaran-pepper,75.53,73,148.53,Aldebaran,https://www.ald.softbankrobotics.com/en/cool-robots/pepper
+Rolling-Justin,77.07,70.35,147.42,German Aerospace Center (DLR) Robotics and Mechatronics Center,http://www.dlr.de/rmc/rm/en/desktopdefault.aspx/tabid-11427/#gallery/29202
+asimo-humanoid,72.7,74.7,147.4,Honda,http://asimo.honda.com/
+Ontonaroid,73.93,73.45,147.38,Hiroshi Ishiguro Laboratory (HIL),http://www.geminoid.jp/en/robots.html
+chico,74.37,72.9,147.27,"Jose' Santos-Victor, VisLab-Computer and Robot Vision Laboratory, Institute for Systems and Robotics, Lisbon Portugal",http://vislab.isr.ist.utl.pt/rbcog-lab/
+Erica,76.5,70.2,146.7,Hiroshi Ishiguro Laboratory (HIL),http://www.geminoid.jp/en/robots.html
+qihan-sanbot,74.13,72.45,146.58,Qihan Technology,http://sanbot.manufacturer.globalsources.com/si/6008851015498/Homepage.htm
+E-Nuvo,72.67,73.9,146.57,"Nippon Institute of Technology (NIT), Harada Vehicle Design, ZMP, and ZNUG Design",http://www.robaid.com/robotics/e-nuvo-humanoid-robot-to-be-used-in-educational-purposes.htm
+Kibo,74.7,71.65,146.35,Center for Intelligent Robots,http://www.irobotics.re.kr/eng_sub1_4
+Furo-S,72.4,73.4,145.8,Future Robotics,http://www.myfuro.com/furo-s/service-feature/
+Robohon,75.44,68.8,144.24,Sharp,https://robohon.com/global/
+kismet,76.43,67.75,144.18,Cynthia Brezeal MIT Sociable Machines Project,http://www.ai.mit.edu/projects/humanoid-robotics-group/kismet/kismet.html
+Cozmo,73.1,71.05,144.15,Anki,https://anki.com/en-us/cozmo
+misty,77.33,66.55,143.88,Misty Robotics,https://www.mistyrobotics.com/
+nao-humanoid,72.1,71.45,143.55,Aldebaran,https://www.ald.softbankrobotics.com/en/robots/nao
+valkyrie,74.13,69.25,143.38,NASA,https://www.nasa.gov/feature/valkyrie
+topio,70.77,72.45,143.22,TOSY,https://www.robotcenter.co.uk/products/topio
+lego-robot-2,72.77,70.45,143.22,LEGO,https://shop.lego.com/en-CA/LEGO-MINDSTORMS-NXT-2-0-8547
+Manav,73,69.9,142.9,"Laboratory of A-SET Training and Research Institutes, Diwakar Vaish",http://www.diwakarvaish.com/innovations-1.html
+Mahru,71.87,70.95,142.82,"Korean Institute of Science and Technology (KIST), Bum-Jae You",http://eng.kist.re.kr/kist_eng/?sub_num=417&state=view&idx=-82044
+Walk-Man,73.4,69.15,142.55,Italian Institute of Technology,https://www.walk-man.eu/
+Mero,73.13,69.35,142.48,Robo Care,http://kistrobot.tradekorea.com/product/detail/P544187/Event%20Companion%20Robot%20'MERO3%20'.html?minisiteprodgroupno=53094
+gazeroid,76.63,65.55,142.18,Takauki Todo,http://www.takayukitodo.com/#portfolio
+Roboray,73.8,68.3,142.1,"Samsung, Bristol Robotics Lab, University of Bristol",http://www.kurzweilai.net/humanoid-robot-builds-real-time-3d-visual-maps-walks-like-humans?utm_source=KurzweilAI+Weekly+Newsletter&utm_campaign=5f16dd6dd7-UA-946742-1&utm_medium=email&utm_term=0_147a5a48c1-5f16dd6dd7-282121285
+telexistence,72.73,69.3,142.03,Telexistence Inc. ,https://tx-inc.com/
+sanbot-max,75.73,66.2,141.93,"Sanbot Robotics, Qihan",https://sanbot.com/
+Hoap-3,72.53,69.1,141.63,Fujitsu Laboratories Ltd,https://pr.fujitsu.com/en/news/2001/09/10.html
+Topio-Dio,73.87,67.7,141.57,Tosy Robotics,http://www.tosy.com/
+Snackbot,70.4,71,141.4,"Carneige Mellon University, Human-computer interaction institiute",http://snackbot.org/about-public.html
+manoi-pf01,70.4,70.65,141.05,Kyosho,http://www.theoldrobots.com/Japan3.html
+iCub,75.5,65.15,140.65,Italian Institute of Technology,http://www.icub.org/
+Cuti,74.33,66,140.33,Yumii,http://www.yumii.io/index.php/en/our-service/
+furhat,73.63,66.65,140.28,Furhat robotics,http://www.furhatrobotics.com/
+han,73.63,66.55,140.18,Hanson Robotics,http://www.hansonrobotics.com/robot/han/
+SociBot-Kiosk,72,68.15,140.15,Engineered arts,https://www.engineeredarts.co.uk/product/socibot/  
+toro,76.7,63.4,140.1,DLR Institute of Robotics and Mechatronics,https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-6838/11291_read-25964/
+mip2,74.1,65.1,139.2,WowWee,http://wowwee.com/mip/
+MoRO,68.13,71,139.13,Ewaybot Technology,http://www.ewaybot.cn/
+mertz,79.93,59.2,139.13,MIT CSAIL,http://people.csail.mit.edu/lijin/mertz.html
+DRU,72.57,66.55,139.12,Domino's Pizza,https://www.dominos.com.au/inside-dominos/technology/dru
+MILLENNIA,72.07,67,139.07,International Robotics INC,http://internationalrobotics.com/millennia-robot/
+altair-ez2,70.03,68.7,138.73,Tony Ellis (Applied Machine Intelligence (AMI)),http://www.appliedmachineintelligence.co.uk/robots.html
+sota,69.83,68.15,137.98,NTT Japanses telecommunication company,https://www.vstone.co.jp/products/sota/
+loomo,73.1,64.75,137.85,Segway,http://robot.segway.com/product
+kojiro,74.17,63.65,137.82,"Masayuki Inaba, Kei Okada, JSK Lab, Tokyo Univesrity",http://www.jsk.t.u-tokyo.ac.jp/?utm_source=robots-ieee-org
+iCat,73.27,64.5,137.77,Philips Electronics,http://www.roboticstoday.com/robots/icat
+Autom,69.6,67.7,137.3,"Cory Kidd, Intuitive Automota",https://www.indiegogo.com/projects/bring-autom-to-life#/
+discorobo,69.87,67.15,137.02,TOSY,http://www.tosy.com/index.php/discorobo/
+REEM-C-2,70.2,66.65,136.85,PAL-ROBOTICS,http://pal-robotics.com/en/products/reem-c/
+TellUBee,72.2,64.45,136.65,Tachi lab,http://tachilab.org/projects/11.html
+topo,68.93,67.55,136.48,Androbot,http://www.smallrobot.com/androbot.html
+Flash,68.83,66.95,135.78,Flash robotics,http://www.flash-robotics.com/products/flash
+myon,69.17,66.5,135.67,"Manfred Hild, Neurorobotics Laboratory, University of Kontanz ",http://www.neurorobotik.de/robots/myon_en.php
+thr3,70.57,64.9,135.47,Toyota,https://www.toyota-global.com/innovation/partner_robot/
+moxi,69.6,65.8,135.4,Diligent Robotics,http://diligentrobots.com/moxi/
+Felix,73.93,61.35,135.28,Achimedes Exhibitions,http://www.archimedes-exhibitions.de/projects/exhibits/FELIX
+Aila,76.3,58.9,135.2,German Research Centre for Artificial Intelligence (DFKI GmbH) in collaboration with the University of Bremen,http://robotik.dfki-bremen.de/en/research/robot-systems/aila.html
+Roboy,69.17,65.4,134.57,Roboy,http://roboy.org/
+ipal,68,66.55,134.55,Avatar Mind,https://www.ipalrobot.com/
+Kobian-1,67.37,67.15,134.52,"Waseda University, Osaka University, Mejiro University (see publication)",http://www.takanishi.mech.waseda.ac.jp/top/research/kobian/KOBIAN-R/index.htm
+murata-girl,68.43,65.85,134.28,"Murata Manufacturing Co., Ltd.",http://www.murata.com/en-us/about/mboymgirl/mgirl
+Aido-1,68.5,65.55,134.05,Aido,http://www.aidorobot.com/
+Igus,69.67,64.25,133.92,University of Bonn,http://www.nimbro.net/Humanoid/robots.html
+waseda,64.2,69.55,133.75,Waseda University,http://www.takanishi.mech.waseda.ac.jp/
+edgar,69.23,64.45,133.68,"Wong Choon Yue, Nanyang Technological University",http://www.ntu.edu.sg/home/wongcy/edgar.html
+tipron,69.97,63.65,133.62,Tipron,https://tipron.cerevo.com/en/
+Escher,66.9,66.7,133.6,Virgina Tech,http://www.me.vt.edu/research/laboratories/trec/
+mini,70.1,63.45,133.55,"Robotics Lab, Universidad Carlos III de Madrid",http://roboticslab.uc3m.es/roboticslab/
+THOR,69.97,63.55,133.52,"University of California, Los Angeles RoMeLa",http://www.romela.org/
+aeolus,68.3,65,133.3,Aeolus Robotics,https://aeolusbot.com/
+Humanoid-2,68.7,64.5,133.2,Toyota Partner Series,http://www.toyota-global.com/innovation/partner_robot/family_2.html#h202
+riba-ii,73.67,59.5,133.17,Riken Research Center and Tokai Rubber Industries,http://www.riken.jp/en/pr/press/2011/20110802_2/
+Troy2,68.1,64.45,132.55,"Brigham Young University, Mark Colton, Mike Goodrich, and others",https://cswiki.cs.byu.edu/ar/dan-s-robot
+pr2,67.66,64.75,132.41,Willow Garage,http://www.willowgarage.com/pages/pr2/overview
+baxter-industrial,69.2,63.05,132.25,Rethink Robotics,http://www.rethinkrobotics.com/baxter/
+sanbot-nano,68.83,63.15,131.98,"Sanbot Robotics, Qihan",https://sanbot.com/
+kirobo,63.53,68.3,131.83,Toyota,https://www.toyota-europe.com/world-of-toyota/articles-news-events/introducing-kirobo-mini
+Robovie-mR2,67.37,64.25,131.62,ATR Intelligent Robotics and Communication Laboratories,http://www.irc.atr.jp/~miyasita/miya-robovie-eng/About_Robovies.html
+Ami,70.83,60.65,131.48,Korea Advanced Inst. of Science and Tech. (KAIST),http://www.kaist.edu/
+emys,72.57,58.75,131.32,FLASH Robotics,http://www.flash-robotics.com/products/emys
+nadine,69.5,59.9,129.4,"Nadia Magnenat Thalmann, University of Geneva",http://www.miralab.ch/
+BINA48,70.73,58.65,129.38,Hanson robotics,http://www.hansonrobotics.com/robot/bina48/
+Metal-Rebel,67.73,61.6,129.33,University of Nevada Las Vegas,http://www.drc-hubo.com/
+nexi,66.37,62.95,129.32,Massachusetts Institute of Technology,http://robotic.media.mit.edu/portfolio/nexi/
+irobi-q,68.47,60.8,129.27,YuJin Robot co.,http://en.yujinrobot.com/archives/portfolio-items/irobi-q
+walker,72.16,56.85,129.01,Ubtech Robotics,https://ubtrobot.com/
+darwin-op,65.8,62.8,128.6,Robotics and Mechanisms Laboratory (RoMeLa),http://www.romela.org/darwin-op-open-platform-humanoid-robot-for-research-and-education/
+ARM-S,67.34,61.05,128.39,USC Robotics Center,http://rasc.usc.edu/arm-s.html
+Luna,64.77,63.55,128.32,Robo Dynamics,http://www.roboticstoday.com/robots/luna
+Meka-1,64.9,63.4,128.3,"Meka Robotics, acquired by Google X",http://google-acquisitions.silk.co/page/Meka-Robotics
+Meccano-MeccaNoid,64.93,63.2,128.13,Meccano,http://www.meccano.com/meccanoid-about
+HRP2-Promet,66.93,61.15,128.08,Kawada Industries,http://global.kawada.jp/mechatronics/hrp2.html
+Surena-III,63.38,64.63,128,University of Tehran,http://surenahumanoid.com/?page_id=24890
+inmoov,68.37,59.55,127.92,Gael Langevin,https://inmoov.fr/
+buddy,65.23,62,127.23,Blue Frog Robotics,http://www.bluefrogrobotics.com/en/buddy/
+Emuu,72.8,53.75,126.55,Christopher Bartneck in collaboration with Philips Electronics,http://www.bartneck.de/2002/09/01/emuu/
+papero,66.07,60.3,126.37,NEC platform corporation,http://www.necplatforms.co.jp/solution/marketplace/
+Surena-Mini,65.4,60.65,126.05,"University of Tehran??as Center for Advanced Systems and Technologies, led by Professor Aghil Yousefi-Koma",http://castech.ir/
+padbot3,63.47,62.25,125.72,Padbot Robotics,https://www.padbot.com/padbotp3
+Int-Ball,63.9,61.65,125.55,Japan Aerospace Exploration Agency (JAXA) ,http://iss.jaxa.jp/en/kiboexp/news/170714_int_ball_en.html
+Kuri,63.33,62.15,125.48,Mayfield Robotics,https://www.heykuri.com/
+HOSPI-Rimo,64.87,60.6,125.47,Panasonic,http://news.panasonic.com/global/topics/2015/44009.html
+olivia,66.33,59.1,125.43,"Haizhou Li, A*STAR Social Robotics Lab (ASOR), Agency for Science and Technology, Singapore",https://www.a-star.edu.sg/asoro/robots_olivia.html
+Furo-i-Home,65.3,59.7,125,Furture Robotics,http://www.myfuro.com/furo-i/service-feature/
+robothespian,66.07,58.9,124.97,Engineered Arts,https://www.engineeredarts.co.uk/robothespian/
+HomeMate,65.37,59.55,124.92,"National University of Singapore, and others",http://www.wtec.org/HRI/Docs/Human-Robot%20Interaction_final-5.9.12.pdf
+Ciros,64,60.7,124.7,Center for Intelligent Robots,http://www.irobotics.re.kr/eng_sub1_3
+Genie,65.1,59.55,124.65,Hovis DST robot (Sastra),http://www.dongburobot.com/jsp/cms/view.jsp?code=100797
+charli,58.93,65.6,124.53,"Dennis Hong, Robotics and Mechanics Laboratory (RoMeLa), Univesity of California Los Angeles",http://www.romela.org/
+kengoro,65.3,59.2,124.5,"Masayuki Inaba, SK Lab, University of Tokyo",http://www.jsk.t.u-tokyo.ac.jp/research.html
+Ibuki,60.6,63.8,124.4,"Hiroshi Ishiguro, Intelligent Robotics Laboratory ",http://eng.irl.sys.es.osaka-u.ac.jp/robot/ibuki
+jia-jia-robot,63.17,60.75,123.92,University of Science and Technology (China),http://news.xinhuanet.com/english/2016-04/15/c_135282841.htm
+qtrobot,64.8,58.9,123.7,LuxAi,http://luxai.com/
+HRP2+,62.25,61.31,123.57,University of Tokyo,http://www.jsk.t.u-tokyo.ac.jp/research.html
+alter-humanoid,68.27,54.3,122.57,Osaka University ,http://www.itmedia.co.jp/news/articles/1607/29/news154.html
+careobot,60.94,61.6,122.54,Fraunhofer Institute for Manufactoring Engineering and Automation,https://www.care-o-bot.de/en/care-o-bot-4.html
+manoi-AT01,65.8,56.05,121.85,Kyosho,http://www.theoldrobots.com/Japan3.html
+poppy,66.73,53.9,120.63,Poppy Project (Open Source),http://www.poppy-project.org
+pino,61.13,59.25,120.38,ZMP Inc.,http://www.roboticstoday.com/robots/pino
+Twendy-One,61.1,58.05,119.15,"Waseda University, Shigeki Sugano",http://www.twendyone.com/index_e.html
+Reddy,58.34,60.4,118.74,RoboMotio Charles ,https://www.engadget.com/2007/06/05/reddy-the-emotional-humanoid-robot/
+AnyBot,61.43,57.2,118.63,Anybot,http://www.anybots.com/
+reeti,63.03,55.3,118.33,Robopec,http://www.reeti.fr/index.php/en/
+SociBot-mini,64.5,53.75,118.25,Engineered arts,https://www.engineeredarts.co.uk/product/socibot-mini/  
+R3-1,63.93,54.2,118.13,"Instanbul Technical University, Pinar Uluer",http://link.springer.com/article/10.1007/s12369-015-0307-x
+Hitchbot,63,54.55,117.55,David Harris Smith and Frauke Zeller,http://mir1.hitchbot.me/
+musio,61.07,56.4,117.47,Musio,https://themusio.com/home
+TALOS,58.47,58.8,117.27,PAL-ROBOTICS,http://pal-robotics.com/en/products/talos/
+jibo,67.3,49.85,117.15,Cynthia Breazeal,https://www.jibo.com/
+REEM,59.4,57.55,116.95,PAL-ROBOTICS,http://pal-robotics.com/en/products/reem/
+Heasy,60.53,56.4,116.93,Hease Robotics,http://heaserobotics.com/heasy/
+Sawyer,56.54,60.3,116.84,Retink Robotics,http://www.rethinkrobotics.com/sawyer-intera-3/
+jackrabbit2,67.57,48.85,116.42,"Silvio Savarese, Stanford University, Vision and Learning Lab",http://svl.stanford.edu/projects/jackrabbot/
+AcYut-7,61.17,55.25,116.42,Team AcYut,http://www.acyut.com/
+JD-Humanoid,58.9,57.2,116.1,EZ Robots,https://www.ez-robot.com/Shop/AccessoriesDetails.aspx?prevCat=101&productNumber=31
+speech-buddy,58.57,57.25,115.82,Pavithra Ramamurthy & Tingyu (Kathy) Li,http://www.myspeechbuddy.webflow.io
+Johnny-Five,58.47,57.2,115.67,"TU Darmstadt, Team Hector",http://www.teamhector.de/our-robot
+Flobi,57.7,57.65,115.35,University of Bielefeld,https://aiweb.techfak.uni-bielefeld.de/flobi-head
+mobiserv-companion,58.83,55.95,114.78,Mobiserv,http://www.smart-homes.nl/Innoveren/Sociale-Robots/Mobiserv.aspx
+airbot,53.4,61.35,114.75,LG ,http://www.lgnewsroom.com/2017/07/lg-airport-robots-take-over-koreas-largest-airport/
+Talk-Torque,60.63,54.1,114.73,Tsukuba University,http://www.roboticstoday.com/robots/talk-torque-2
+tico,65.04,49.65,114.69,Adele robotics,http://www.adelerobots.com/en/tico/
+aryan,62.96,51.5,114.46,MIT,http://people.csail.mit.edu/hmobahi/aryan/
+DRC-Hubo,59.03,55.3,114.33,University of Nevada Las Vegas,http://www.drc-hubo.com/
+Robina,58.9,55.4,114.3,Toyota Partner Series,http://www.toyota-global.com/innovation/partner_robot/family_2.html#h201
+eccerobot,61.27,52.95,114.22,7th Framework Programme,http://eccerobot.org/
+centaur,62.7,50.5,113.2,NASA,https://robonaut.jsc.nasa.gov/R1/sub/mobility.asp
+Wakamaru,63.77,49.2,112.97,Mitsubishi Heavy Industries,https://www.mitsubishi.com/mpac/e/monitor/back/0602/story.html
+Tapia,61.03,51.9,112.93,MJI Robotics,http://mjirobotics.co.jp/en#robot
+Gemini,58.07,54.6,112.67,university of Tsukuba,http://www.ai.iit.tsukuba.ac.jp/research/041.html
+platina,66.2,46.3,112.5,Flower Robotics,http://www.flower-robotics.com/robots.html
+Leka,54.6,57.9,112.5,Leka,http://leka.io/
+lego-robot-1,66.3,45.8,112.1,LEGO,https://www.lego.com/en-us/mindstorms/build-a-robot/gripp3r
+H5,57.14,54.9,112.04,Tohoku University Japan JSK Lab,http://www.jsk.t.u-tokyo.ac.jp/~nishi/H5/h5.html
+maggie,63.97,48.05,112.02,"Robotcs Lab, Universidad Carlos III de Madrid",http://roboticslab.uc3m.es/roboticslab/robot/maggie
+qrio,60.63,50.75,111.38,Sony,https://www.sony.net/SonyInfo/CorporateInfo/History/sonyhistory-j.html
+sparki,58.04,53.31,111.36,Archbotics,http://arcbotics.com/products/sparki/
+seer,58.13,53.1,111.23,Takauki Todo,http://www.takayukitodo.com/#portfolio
+DURUS,56.6,54.35,110.95,Amber labs,http://www.bipedalrobotics.com/
+Cosero,61.73,48.8,110.53,University of Bonn,http://www.ais.uni-bonn.de/nimbro/@Home/
+Amigo,59.5,50.75,110.25,"Tech United, Eindhoven University of Technology",http://www.techunited.nl/en/amigo
+Jimmy,60.55,49.53,110.07,Intel and Trossen Robotics,https://iq.intel.com/my-robot-is-cuter-than-your-robot/
+Nextage,58.83,50.75,109.58,Kawanda,http://nextage.kawada.jp/en/
+geebot,56.37,53.15,109.52,"Hugo Simao Faculty of Architecture, University of Lisbon & Nuno Duarte Institute for Systems and Robotics, Instituto Superior Técnico University of Lisbon",https://tinyurl.com/yb5lkler
+stevie,61.57,47.8,109.37,Trinity CollegeDublin. RAIL Robotics and Innovation Lab,https://www.tcd.ie/mecheng/research/robotics/projects/stevie.php
+aida-driving-agent,55.7,53.4,109.1,Personal Robots Group,http://robotic.media.mit.edu/portfolio/aida/
+Posy,55.73,53.1,108.83,Flower Robotics,http://www.flower-robotics.com/robots.html#posy
+commu,54.17,53.7,107.87,"Vstone Co.,Ltd and Osaka University",http://resou.osaka-u.ac.jp/en/research/2015/20150120_2
+HRP-2VZ,60.2,47.6,107.8,University of Tokyo,http://www.jsk.t.u-tokyo.ac.jp/research/hrp2vz/index.html
+otto,53.93,53.85,107.78,Samsung,https://www.engadget.com/2016/04/27/otto-is-samsungs-cute-personal-assistant-robot/
+atlas,54.7,52.9,107.6,DARPA,http://www.darpa.mil/about-us/timeline/debut-atlas-robot
+Anette,53.2,53.95,107.15,Sastra Robotics,http://www.sastrarobotics.com/products/anette-telepresence-robot/
+hiro,49.83,57.3,107.13,Kawada Industries,http://global.kawada.jp/mechatronics/hiro.html
+Xing-Tian,57.23,49.25,106.48,"Institute of advanced manufacturing technology, Research Institute of robotics and intelligent equipment",http://www.iamt.cas.cn/
+Silbot-3,61.5,44.85,106.35,Gaitech Technology,http://www.gaitech.hk/?page_id=2190
+Big-i,55.17,50.45,105.62,NXROBO,https://www.kickstarter.com/projects/nxrobo/big-i-the-first-personalized-family-robot
+Maki,57.3,48.15,105.45,Peachybots,https://www.peachybots.com/
+zenbo,55.13,50.1,105.23,ASUS,https://zenbo.asus.com/product/overview/
+3e-a18,53.3,51.6,104.9,Honda ,https://world.honda.com/CES/2018/detail/001/
+cruzr,54.93,49.95,104.88,Ubtech Robotics,https://ubtrobot.com/
+av1,54.2,50.6,104.8,No Isolation,https://www.noisolation.com/global/av1/
+Eva,58.2,46.3,104.5,"Delft Biorobotics Lab, Delft University of Technology",http://www.roboticstoday.com/robots/eva
+Mabu,52.23,52,104.23,Catalia Health,http://www.cataliahealth.com/introducing-the-mabu-personal-healthcare-companion/
+Ethon2,56.57,47.65,104.22,"Robotics Reserach Lab and Ethorobotics, Budapest University of Technology and Economics, Department of Mechatronics, Optics, and Mechanical Engineering (Peter Korondi, Beata Korcsok) in collaboration with the Ethology Department at Eotvos Lorand University",https://sites.google.com/a/mogi.bme.hu/ethorobotics/
+Hermes,58.84,44.45,103.29,"Biomimetic Robotics Lab, MIT",https://biomimetics.mit.edu/research/mit-hermes-project
+Hitachi-Emiew,48.87,54.35,103.22,Hitachi,http://www.hitachi.com/rd/portal/highlight/robotics/emiew2_01/
+PadBot,51.2,50.95,102.15,PadBot,http://www.padbot.com/
+TIAGo,57.77,43.95,101.72,PAL-ROBOTICS,http://tiago.pal-robotics.com/
+pris,52.13,49.25,101.38,"Maxwell Bennett, Tom Williams, Daria Thames, & Matthias Scheutz HRI Lab Tufts Unversity",https://hrilab.tufts.edu/
+synchy,51.8,48.95,100.75,"Hiroshi Ishiguro, Intelligent Robotics Laboratory, JST ERATO ASADA Synergistic Intelligence Project, Osaka Univ",https://2ae692fb-a-1c6c1f76-s-sites.googlegroups.com/a/irl.sys.es.osaka-u.ac.jp/top-en/home/research/Synchy.pdf?attachauth=ANoY7cpsZih5WykqbffdnMVygJ5Aqg44GCZN1kMOAWa04RRw31HpzFS9l0kJR5wRqV9XLW0bapGHszk7rSBeGDS7VmGyujq9AUgtHuzzNzmmcJE_dn71-qBupt71iypP--1LycARpDtIZBDGFhjuuJMKGXiqgiS6UgH7nY5N2juQLsXVSj3UfhvkPBN4LPqNQs9t6Wn5WepMDohwp3UzoPyTNX_kkWG7XhoXryXoWnyOPjwgUI44tAE%3D&attredirects=0
+aerialbipedal,50.97,49.65,100.62,"Azumi Maekawa, Ryuma Niiyama, Msahiko Inami, Shunji Yamanaka, University of Tokyo",http://concrete.t.u-tokyo.ac.jp/en_2017/
+Animated-SmartPhone-1,50.23,49.55,99.78,"Etienne Balit, Univ Grenoble Alpes, INRIA Grenoble",
+hsrmobile,53,46.35,99.35,Toyota,https://www.toyota-global.com/innovation/partner_robot/
+yumi,48.77,50.35,99.12,ABB Ltd.,https://new.abb.com/future/yumi
+TJ-Bot,50.7,48.4,99.1,IBM,https://ibmtjbot.github.io/
+Lego-boost,52.67,46.3,98.97,LEGO,https://www.lego.com/en-us/boost
+adata,60.63,37.65,98.28,ADATA,https://www.adata.com/en/consumer/
+Personal-Robot,47.13,50.75,97.88,Autonomous,https://www.autonomous.ai/personal-robot
+Ollie,50.17,47.55,97.72,Sphero,http://www.sphero.com/ollie
+Running-Man,54.03,42.85,96.88,Institute of Human-Machine Cognition,http://robots.ihmc.us/drc
+ibotn,47.67,48.9,96.57,ibotn,hhttp://www.ibotn.com
+domo,51.5,45.05,96.55,"Aaron Edsinger, Humanoid robotics group MIT",http://people.csail.mit.edu/edsinger/domo.htm
+hub,50.13,46.15,96.28,LG,https://www.cnet.com/products/lg-hub-robot/preview/
+eyePi,54.3,41.65,95.95,"University of Twente, Edwin Dertien",http://essay.utwente.nl/72331/
+S-one,55.17,40.2,95.37,Schaft Robotics owned by Google,http://spectrum.ieee.org/automaton/robotics/humanoids/schaft-robot-company-bought-by-google-darpa-robotics-challenge-winner
+Cassie,47.43,47.85,95.28,Agility robotics,http://www.agilityrobotics.com/#cover
+Babyloid,50.77,44.3,95.07,Chokyu University,http://www.st.chukyo-u.ac.jp/z104123/research.html#
+Ewya,46.57,48.15,94.72,Avatar Controls,https://www.avatarcontrols.com/
+Mitra,48.53,45.35,93.88,Mitra,http://mitrarobot.com/
+Keecker,49.47,42.7,92.17,Keecker,http://www.keecker.com/
+telenoid,44.43,47.35,91.78,Osaka University & Advanced Telecommunications Research Institute International (ATR),http://telenoid-planning.jp/
+HERB,50.5,40.05,90.55,Carneige Mellon University,http://www.roboticstoday.com/robots/herb
+slate,49.13,41.25,90.38,Slate Robotics,https://slaterobots.com/tr1
+kaspar,44.13,43.05,87.18,Kerstin Dautenhahn University of Hertforshire,http://www.herts.ac.uk/kaspar/meet-kaspar
+snap-bot,43.87,43.25,87.12,SnapChat ,https://www.spectacles.com/map/
+5e-Nanny-Bot,46.9,39.75,86.65,5 elements,http://5elementsrobotics.com/5enannybot/
+UR3,44.13,42.2,86.33,Universal Robots,https://www.universal-robots.com/products/ur3-robot/
+pillo,39.7,44.2,83.9,Pillo Health,https://www.pillohealth.com/
+GoCart,43.47,39.7,83.17,YuJin Robot co.,http://gocart.yujinrobot.com/
+Mung,50.53,32.4,82.93,Yonsei University and KAIST (Korean Advanced Institute of Science and Technology),http://delivery.acm.org/10.1145/1520000/1516304/p362-kim.pdf?ip=128.148.231.16&id=1516304&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDD490426617BA903%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=992460963&CFTOKEN=72282087&__acm__=1507310255_4f6cc0de1236d878bf5b95a5119d1b3a
+3e-c18,49.9,32.45,82.35,Honda,https://world.honda.com/CES/2018/detail/003/
+haru,42,39.75,81.75,Honda Research Institute,https://spectrum.ieee.org/automaton/robotics/home-robots/haru-an-experimental-social-robot-from-honda-research
+Franka-Emika,41,38.75,79.75,Franka Emika,https://www.franka.de/
+Mykie,44.07,34.1,78.17,Seimens,https://www.bsh-group.com/newsroom/press-releases/mykie-a-personal-assistant-for-the-kitchen
+muu,50.1,27.75,77.85,Christopher Bartneck in collaboration with Philips Electronics,http://www.bartneck.de/2002/09/01/emuu/
+Cody,43.3,34.45,77.75,Georgia Tech Healthcare Robotics Lab,http://pwp.gatech.edu/hrl/robotic-nurse-assistant/
+quori,39.93,36.75,76.68,quori,http://www.quori.org/
+MiRAE,37.8,38.25,76.05,R House Lab,http://r-house.soic.indiana.edu/projects/mirae.html
+sphero,34.37,35.9,70.27,Sphero,http://www.sphero.com/sphero
+Sociable-Trashbox,36.73,28.5,65.23,"Interaction Communication Design Lab, Yuto Yamaji",https://www.icd.cs.tut.ac.jp/projects/stb_en.html
+Clocky,24.7,27.45,52.15,Nanda Home,http://www.nandahome.com/

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOT 2.0 Showcase</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <canvas id="abot-canvas"></canvas>
+
+    <!-- Top-right navigation (always visible) -->
+    <nav class="top-nav">
+        <a href="#" class="nav-item active" data-section="home">HOME</a>
+        <a href="#" class="nav-item" data-section="about">ABOUT</a>
+        <a href="#" class="nav-item" data-section="image">IMAGE</a>
+    </nav>
+
+    <!-- HOME interface content -->
+    <div class="home-content" id="home-content">
+        <!-- Top-left coded by label -->
+        <div class="coded-by">CODED BY ZHEJIANG UNIVERSITY</div>
+
+        <!-- Bottom paper information -->
+        <div class="paper-info">
+            <div class="paper-title">RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots</div><br>
+            <div class="paper-venue">Hu, X., Hu, Q., Yu, T., Shen, M., & Zhou, J. (2026, March). In Companion of the 2026 ACM/IEEE International Conference on Human-Robot Interaction.</div>
+        </div>
+
+        <!-- Bottom-right clock -->
+        <div class="clock" id="clock"></div>
+
+        <!-- Bottom-left version number -->
+        <div class="version">v1.0</div>
+    </div>
+
+    <!-- ABOUT interface content -->
+    <div class="about-content" id="about-content">
+        <!-- Glass blur background -->
+        <div class="glass-background"></div>
+
+        <!-- Logo -->
+        <img src="logo.png" alt="Logo" class="page-logo">
+
+        <div class="about-text-content">
+            <h1 class="about-title">
+                <div class="title-main">ABOT 2.0</div>
+                <div class="title-sub">Robot Social Interaction Potential Database</div>
+            </h1>
+
+            <section class="about-section">
+                <h2 class="section-title">❓ What is ABOT 2.0?</h2>
+                <p class="about-text">
+                    <strong>ABOT 2.0</strong> is an updated and extended version of the original
+                    <a href="https://www.abotdatabase.info/" target="_blank" class="about-link">ABOT (Anthropomorphic roBOT) Database</a>,
+                    developed by Phillips, Zhao, Ullman, and Malle (2018, HRI). While the original ABOT focused on categorizing the human-likeness of robot appearance through visual features, ABOT 2.0 shifts the emphasis toward a more functionally relevant question: <strong>how a robot's appearance shapes users' beliefs about its social interaction capabilities</strong>.
+                </p>
+                <p class="about-text" style="margin-top: 20px;">
+                    The new version includes <strong style="color: #00cec9;">300 robot images</strong>: the original 251 robots from ABOT (pre-2018) and 49 newly collected robots (mostly 2023+) with a broader variety of forms, functionalities, and contexts. To systematically evaluate each robot's social potential, we developed the <strong style="color: #fd79a8;">RoSIP (Robot Social Interaction Potential) scale</strong>, which enables users to assess how likely a robot appears capable of perceiving and interacting, based solely on the first sight.
+                </p>
+            </section>
+
+
+
+            <!-- Comparison table -->
+            <section class="about-section">
+                <h2 class="section-title">🔍 What is difference between ABOT and ABOT 2.0?</h2>
+                <div class="table-container">
+                    <table class="comparison-table">
+                        <thead>
+                            <tr style="background: rgba(255, 255, 255, 0.1);">
+                                <th>Aspect</th>
+                                <th>ABOT</th>
+                                <th>ABOT 2.0</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Primary Goal</strong></td>
+                                <td>Understand and quantify human-likeness in robot appearance</td>
+                                <td>Evaluate perceived social interaction potential from appearance</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Data Set</strong></td>
+                                <td>251 robot images</td>
+                                <td>300 robot images (251 original + 49 new)</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Evaluation Focus</strong></td>
+                                <td>Appearance-based anthropomorphism</td>
+                                <td>Appearance-based social interaction potential</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Dimensionality</strong></td>
+                                <td>4 PCA-derived dimensions:<br>
+                                    ① Body-Manipulators (torso, arms, legs, etc.)<br>
+                                    ② Surface Look (skin, hair, nose, etc.)<br>
+                                    ③ Facial Features (eyes, mouth, face, etc.)<br>
+                                    ④ Mechanical Locomotion (wheels, treads)</td>
+                                <td>2 function-oriented dimensions:<br>
+                                    ① Perception (can it receive information (e.g, see, smell, feel)?)<br>
+                                    ② Behavior (can it interact with me?)</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Measurement Tool</strong></td>
+                                <td>PCA on human-likeness ratings</td>
+                                <td>RoSIP scale based on user judgments of social potential</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- RoSIP Scale -->
+            <section class="about-section">
+                <h2 class="section-title">🎯 RoSIP (Robot Social Interaction Potential) Scale</h2>
+
+                <!-- RoSIP Scale image -->
+                <div style="text-align: center; margin: 25px 0;">
+                    <img src="Scale.jpg" alt="RoSIP Scale" style="max-width: 85%; height: auto; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
+                </div>
+
+                <div class="about-text">
+                    We define social interaction potential as comprising two key dimensions: <strong style="color: #00cec9;">Perceptual Potential</strong> and <strong style="color: #fd79a8;">Behavioral Potential</strong>.
+                </div>
+
+                <div class="dimension-card" style="margin-top: 25px;">
+                    <h3 style="color: #00cec9; margin-bottom: 15px;">🔍 Perceptual Potential</h3>
+                    <p class="dimension-description">
+                        Refers to users' belief that the robot can <strong>receive information</strong>. This includes the perceived ability of the robot to see, feel, or smell. This dimension is further divided into two subscales:
+                    </p>
+                    <ul class="feature-list">
+                        <li><strong>Perceptual Reception:</strong> The extent to which users believe the robot can autonomously detect external stimuli.</li>
+                        <li><strong>Perceptual Expression:</strong> The extent to which users believe the robot can visibly express that it has detected external stimuli.</li>
+                    </ul>
+                </div>
+
+                <div class="dimension-card" style="margin-top: 25px; border-left-color: #fd79a8;">
+                    <h3 style="color: #fd79a8; margin-bottom: 15px;">🤝 Behavioral Potential</h3>
+                    <p class="dimension-description">
+                        Reflects users' belief that the robot can <strong>interact with them</strong>. Rather than emphasizing autonomous action planning or agency, this dimension focuses on the robot's capability to provide interactive feedback to human users.
+                    </p>
+                </div>
+
+                <div class="info-box" style="margin-top: 25px;">
+                    <p>The full RoSIP (Robot Social Interaction Potential) scale includes <strong style="color: #ffd700;">10 items</strong>: 6 items for Perception and 4 items for Behavior.</p>
+                    <p style="margin-top: 10px;"><em>You can download the full scale below (available in both English and Chinese versions).</em></p>
+                    <div style="text-align: center; margin-top: 15px;">
+                        <button class="download-btn" onclick="downloadScale()">📥 Download RoSIP Scale</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Citation -->
+            <section class="about-section">
+                <h2 class="section-title">📚 Citation</h2>
+                <div class="citation-box">
+                    <p>
+                        Hu, X., Hu, Q., Yu, T., Shen, M., & Zhou, J. (2026, March). RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots. In Companion of the 2026 ACM/IEEE International Conference on Human-Robot Interaction.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Closing -->
+            <section class="about-section" style="text-align: center; margin-top: 40px;">
+                <div class="closing-message">
+                    <p style="font-size: 18px; color: #ffd700; margin-bottom: 15px;">
+                        Feel free to explore the dataset or contribute to ABOT 2.0!
+                    </p>
+                    <p style="font-size: 16px; color: #ffffff; opacity: 0.8;">
+                        We'll add contact information soon. We welcome your use and feedback, and hope ABOT 2.0 supports future work in HRI!
+                    </p>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <!-- IMAGE interface content -->
+    <div class="image-content" id="image-content">
+        <!-- Glass blur background -->
+        <div class="glass-background"></div>
+
+        <!-- Logo -->
+        <img src="logo.png" alt="Logo" class="page-logo">
+
+        <div class="image-text-content">
+            <h1 class="image-title">ROBOT IMAGE GALLERY</h1>
+
+            <!-- Sort controls -->
+            <div class="sort-controls">
+                <label class="sort-label">SORT BY:</label>
+                <select class="sort-select" id="sort-category">
+                    <option value="time">TIME</option>
+                    <option value="filter">FILTER</option>
+                    <option value="perception">PERCEPTUAL POTENTIAL</option>
+                    <option value="behavior">BEHAVIORAL POTENTIAL</option>
+                    <option value="total">TOTAL SCORE</option>
+                </select>
+
+                <select class="sort-select" id="sort-direction" style="margin-left: 10px;">
+                    <option value="high">HIGH TO LOW</option>
+                    <option value="low">LOW TO HIGH</option>
+                </select>
+            </div>
+
+            <!-- Download controls -->
+            <div class="download-controls">
+                <label class="download-label">DOWNLOAD:</label>
+                <button class="download-btn" id="download-btn">DOWNLOAD</button>
+                <select class="download-select" id="download-select">
+                    <option value="images">IMAGES (ZIP)</option>
+                    <option value="data">DATA (CSV)</option>
+                </select>
+            </div>
+
+            <!-- Image grid container -->
+            <div class="image-grid" id="image-grid">
+                <!-- Images will be dynamically loaded via JavaScript -->
+            </div>
+
+            <!-- Pagination controls -->
+            <div class="pagination-controls">
+                <button class="pagination-btn" id="prev-btn">PREV</button>
+                <div class="page-info">
+                    <span id="current-page">1</span> / <span id="total-pages">1</span>
+                </div>
+                <button class="pagination-btn" id="next-btn">NEXT</button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Main interface scripts -->
+    <script src="abot_mosaic_fixed.js"></script>
+
+    <script>
+        // Download RoSIP Scale function
+        function downloadScale() {
+            // Direct link approach for GitHub Pages
+            const link = document.createElement('a');
+            link.href = 'RoSIP_Scale.pdf';
+            link.download = 'RoSIP_Scale.pdf';
+            link.target = '_blank';
+            link.style.display = 'none';
+
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // Download functionality - following sort's simple logic
+        document.addEventListener('DOMContentLoaded', function() {
+            const downloadBtn = document.getElementById('download-btn');
+            const downloadSelect = document.getElementById('download-select');
+
+            // Download button functionality
+            downloadBtn.addEventListener('click', function() {
+                const selectedType = downloadSelect.value;
+
+                if (selectedType === 'images') {
+                    // Add download images ZIP logic here
+                } else if (selectedType === 'data') {
+                    // Add download data CSV logic here
+                }
+            });
+
+            // Selector change event
+            downloadSelect.addEventListener('change', function() {
+                // Handle selection change if needed
+            });
+        });
+
+
+
+
+    </script>
+</body>
+</html>
